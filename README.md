@@ -42,7 +42,7 @@
 ## 📌 Featured Projects
 | ⭐ | Project | Stack / Focus | Summary |
 |---|---------|---------------|---------|
-| 🛒 | **[POS Web App](https://github.com/nestortada/Shopping-Application-Web)** | React • Node • MongoDB • Firebase | Real-time inventory & order management for campus food stalls — JWT auth, Socket.io live updates, responsive Tailwind UI. |
+| 🛒 | **[POS Web App](https://shopping-application-web.vercel.app/)** | React • Node • MongoDB • Firebase | Real-time inventory & order management for campus food stalls — JWT auth, Socket.io live updates, responsive Tailwind UI. |
 | 🍨 | **[Heladería Simulation](https://github.com/nestortada/Simulacion)** | Arena • Statistics | Discrete-event model of Crepes & Waffles ice-cream kiosk; queue analysis, ANOVA & Tukey validation, staffing recommendations. |
 | 🚚 | **[Supply-Chain Optimizer](https://github.com/nestortada/Optimizacion_analitica)** | Python • PuLP | Linear-programming model to minimize production, storage & transport costs while meeting demand. |
 | 📊 | **[Analytics Notebook](https://github.com/nestortada/Analitica-de-datos)** | Python • pandas | End-to-end EDA project: data cleaning, visualization, and KPI reporting for university operations. |
