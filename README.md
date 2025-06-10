@@ -62,5 +62,5 @@
 
 ## 🤝 Let’s Connect
 - 📧 **Email:** nestortada@unisabana.edu.co  
-- 💬 **LinkedIn:** <https://www.linkedin.com/in/nestor-andres-9475252a5/>  
+- 💬 **LinkedIn:** <https://www.linkedin.com/in/nestor-andres-tabares-david-9475252a5/>  
 - 🗨️ **WhatsApp:** <https://wa.me/qr/O6GWSMG42CZOJ1>
