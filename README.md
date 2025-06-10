@@ -64,7 +64,3 @@
 - 📧 **Email:** nestortada@unisabana.edu.co  
 - 💬 **LinkedIn:** <https://www.linkedin.com/in/nestor-andres-9475252a5/>  
 - 🗨️ **WhatsApp:** <https://wa.me/qr/O6GWSMG42CZOJ1>
-
----
-
-<sub>Tip: this README follows guidance from “Design Bootcamp – How to design an attractive GitHub profile”. Feel free to fork & adapt as your journey evolves! 🚀</sub>
