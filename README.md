@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://portafolio-mu-five-59.vercel.app/">🌐 Portfolio</a> •
   <a href="mailto:nestortada@unisabana.edu.co">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/nestor-andres-9475252a5/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/nestor-andres-tabares-david-9475252a5/">💼 LinkedIn</a> •
   <a href="https://github.com/nestortada">🐙 GitHub</a>
 </p>
 
