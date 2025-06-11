@@ -47,12 +47,6 @@
 | 🚚 | **[Supply-Chain Optimizer](https://github.com/nestortada/Optimizacion_analitica)** | Python • PuLP | Linear-programming model to minimize production, storage & transport costs while meeting demand. |
 | 📊 | **[Analytics Notebook](https://github.com/nestortada/Analitica-de-datos)** | Python • pandas | End-to-end EDA project: data cleaning, visualization, and KPI reporting for university operations. |
 
-<!-- Extra projects? Swap in/out as you grow -->
-
-## 📝 Currently Learning / Focusing On
-- Advanced **data-driven simulation** techniques.  
-- **Cloud-native** deployments (Vercel, Firebase) for full-stack apps.  
-- **Clean architecture** & testing for scalable Python back-ends.
 
 ## 📊 GitHub Stats
 <p align="center">
