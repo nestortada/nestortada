@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **7ᵗʰ-semester** double-major at **Universidad de La Sabana** (Industrial & Informatics Engineering).  
+- 🎓 **8ᵗʰ-semester** double-major at **Universidad de La Sabana** (Industrial & Informatics Engineering).  
 - 🔍 Keen on **analytics, simulation, and full-stack web** projects that solve real operational problems.  
 - 🎯 Strengths: leadership, analytical thinking, results orientation, problem solving.
 
