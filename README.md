@@ -58,17 +58,16 @@
 - **Tech:** React, Node.js, MongoDB, and Firebase for real-time synchronization via Socket.io.
 - **Value:** Streamlined administrative control and reduced wait times through a responsive UI.
 
-### 🍨 [Operational Analytics - Crepes & Waffles Model](https://github.com/nestortada/Simulacion)
-- **The Solution:** Discrete-event simulation of high-traffic ice-cream kiosks using **Arena Simulation**.
-- **Impact:** Provided data-driven staffing recommendations and bottleneck analysis validated via ANOVA & Tukey tests.
-
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nestortada&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestortada&layout=compact&theme=radical" height="165">
-</p>
+## 🎯 Current Focus & Learning Path
+*What I'm currently working on to level up my engineering impact:*
+
+- 🛠️ **Deepening Backend Architecture:** Masterclasses in Microservices and System Design.
+- 📈 **Advanced Data Engineering:** Building ETL pipelines to connect Industrial IoT with Cloud Dashboards.
+- 🤖 **Optimization + AI:** Integrating Machine Learning models into Supply Chain simulation environments.
+
+---
 
 ## 🤝 Let’s Connect
 I'm always open to discussing **Operations Research, Cloud Architecture, or Full-Stack Engineering**.
