@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=007396&text=Nestor%20Andres%20Tabares%20David&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+</div>
+
 <h1 align="center">
   ¡Hola! I'm Nestor Andrés Tabares David 👋
 </h1>
@@ -13,14 +17,18 @@
   <a href="https://www.linkedin.com/in/nestor-andres-tabares-david-9475252a5/">💼 LinkedIn</a>
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nestortada&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
+</div>
+
 ---
 
 ## 🚀 Professional Snapshot
 - 🎓 **Double Degree Candidate:** Industrial & Informatics Engineering @ Universidad de La Sabana (8th Sem).
-- 🏅 **Nominated for "Distinguido en Ingeniería Industrial" (2025-1):** Recognized for outstanding academic performance and leadership within the faculty.
-- 🏆 **Winner - Challenge Camp 2024 (Alianza Team):** Designed a winning dynamic logistics network model, optimizing distribution costs and operational efficiency.
-- ☁️ **Cloud Savvy:** Google Cloud Certified in Infrastructure Modernization.
-- 🎯 **Focus:** Building scalable software solutions for complex operational bottlenecks.
+- 🏅 **Mención de Honor (2025-1):** Reconocido por excelencia académica y espíritu universitario por la Facultad de Ingeniería.
+- [cite_start]🏆 **Winner - Challenge Camp 2024 (Alianza Team):** Diseñó la solución ganadora al reto de Red Logística Dinámica, optimizando distribución y costos operativos. [cite: 9, 17]
+- [cite_start]☁️ **Cloud Savvy:** Certificado en Google Cloud para modernización de infraestructura. [cite: 11]
+- [cite_start]🎯 **Focus:** Transformar problemas complejos de negocio en soluciones técnicas escalables. [cite: 10]
 
 ## 🛠️ Specialized Tech Stack
 
@@ -39,8 +47,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
   <img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white">
-  <img alt="VBA" src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
-  <img alt="Arena" src="https://img.shields.io/badge/Arena_Simulation-blue?style=flat-square">
+  <img alt="Excel VBA" src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
 </p>
 
 ---
@@ -49,23 +56,13 @@
 
 ### 🏆 [Dynamic Logistics Network Designer](https://github.com/nestortada/Optimizacion_analitica) 
 *Winning Solution - Challenge Camp 2024*
-- **The Problem:** Inefficient cargo distribution and high operational costs in supply chains.
-- **The Solution:** Developed a linear programming model using **Python (PuLP)** to minimize total cost while meeting dynamic demand.
-- **Impact:** Recognized for technical feasibility and strategic ROI.
+- [cite_start]**The Problem:** Distribución de carga ineficiente y altos costos operativos. [cite: 22]
+- [cite_start]**The Solution:** Modelo de optimización matemática que asegura viabilidad técnica y eficiencia en costos. [cite: 21, 22]
+- [cite_start]**Impact:** Primer puesto otorgado por Alianza Team. [cite: 17, 18]
 
-### 🛒 [Full-Stack POS Ecosystem](https://shopping-application-web.vercel.app/)
-- **The Solution:** Engineered a real-time inventory and order management system for campus food stalls.
-- **Tech:** React, Node.js, MongoDB, and Firebase for real-time synchronization via Socket.io.
-- **Value:** Streamlined administrative control and reduced wait times through a responsive UI.
-
----
-
-## 🎯 Current Focus & Learning Path
-*What I'm currently working on to level up my engineering impact:*
-
-- 🛠️ **Deepening Backend Architecture:** Masterclasses in Microservices and System Design.
-- 📈 **Advanced Data Engineering:** Building ETL pipelines to connect Industrial IoT with Cloud Dashboards.
-- 🤖 **Optimization + AI:** Integrating Machine Learning models into Supply Chain simulation environments.
+### 🛒 Full-Stack POS Ecosystem
+- **The Solution:** Arquitectura y desarrollo de un ecosistema para gestión de inventarios y pedidos en tiempo real.
+- [cite_start]**Value:** Reducción de cuellos de botella operativos mediante automatización de flujos de datos. [cite: 8, 32]
 
 ---
 
@@ -75,7 +72,6 @@ I'm always open to discussing **Operations Research, Cloud Architecture, or Full
 - **Email:** [nestorandrestabaresdavid@gmail.com](mailto:nestorandrestabaresdavid@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nestor-andres-tabares-david](https://www.linkedin.com/in/nestor-andres-tabares-david-9475252a5/)
 
----
-<p align="center">
-  <em>"If you can't measure it, you can't improve it." — Peter Drucker (Optimizing it through code is my job).</em>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=007396"/>
+</div>
