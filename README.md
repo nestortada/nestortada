@@ -56,13 +56,13 @@
 
 ### 🏆 [Dynamic Logistics Network Designer](https://github.com/nestortada/Optimizacion_analitica) 
 *Winning Solution - Challenge Camp 2024*
-- [cite_start]**The Problem:** Distribución de carga ineficiente y altos costos operativos. [cite: 22]
-- [cite_start]**The Solution:** Modelo de optimización matemática que asegura viabilidad técnica y eficiencia en costos. [cite: 21, 22]
-- [cite_start]**Impact:** Primer puesto otorgado por Alianza Team. [cite: 17, 18]
+- **The Problem:** Distribución de carga ineficiente y altos costos operativos.
+- **The Solution:** Modelo de optimización matemática que asegura viabilidad técnica y eficiencia en costos.
+- **Impact:** Primer puesto otorgado por Alianza Team.
 
 ### 🛒 Full-Stack POS Ecosystem
 - **The Solution:** Arquitectura y desarrollo de un ecosistema para gestión de inventarios y pedidos en tiempo real.
-- [cite_start]**Value:** Reducción de cuellos de botella operativos mediante automatización de flujos de datos. [cite: 8, 32]
+- **Value:** Reducción de cuellos de botella operativos mediante automatización de flujos de datos.
 
 ---
 
