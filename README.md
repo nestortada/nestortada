@@ -26,9 +26,9 @@
 ## 🚀 Professional Snapshot
 - 🎓 **Double Degree Candidate:** Industrial & Informatics Engineering @ Universidad de La Sabana (8th Sem).
 - 🏅 **Mención de Honor (2025-1):** Reconocido por excelencia académica y espíritu universitario por la Facultad de Ingeniería.
-- [cite_start]🏆 **Winner - Challenge Camp 2024 (Alianza Team):** Diseñó la solución ganadora al reto de Red Logística Dinámica, optimizando distribución y costos operativos. [cite: 9, 17]
-- [cite_start]☁️ **Cloud Savvy:** Certificado en Google Cloud para modernización de infraestructura. [cite: 11]
-- [cite_start]🎯 **Focus:** Transformar problemas complejos de negocio en soluciones técnicas escalables. [cite: 10]
+- 🏆 **Winner - Challenge Camp 2024 (Alianza Team):** Diseñó la solución ganadora al reto de Red Logística Dinámica, optimizando distribución y costos operativos.
+- ☁️ **Cloud Savvy:** Certificado en Google Cloud para modernización de infraestructura. [cite: 11]
+- 🎯 **Focus:** Transformar problemas complejos de negocio en soluciones técnicas escalables. [cite: 10]
 
 ## 🛠️ Specialized Tech Stack
 
